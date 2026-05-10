@@ -1,7 +1,7 @@
 {
   "name": "krishna-csharp-pr-reviewer-skill",
-  "version": "1.0.0",
-  "description": "Krishna's C# Pull Request Reviewer and Test Gap Analyzer Agent Skill",
+  "version": "2.0.0",
+  "description": "Krishna's C# Pull Request Reviewer — OOP, SOLID, design patterns, anti-patterns, SonarQube-style analysis, EF, resilience, distributed systems, and test gap analysis",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
   "engines": {
     "node": ">=18.0.0"
   },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/KrishnaGunasekar/codereviewskill.git"
